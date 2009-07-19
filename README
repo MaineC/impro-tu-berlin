@@ -1,1 +1,7 @@
-There won't be much source in here. The infrastructure (issue tracker and wiki) are solely used for organizational purposes.
+The purpose of this repository is to organise a Mahout seminar at TU Berlin. It is organised as follows:
+
+  - bug tracker contains all organisational issues to resolve related to the project/seminar.
+  - repository contains all organisational documents, such as student questions, recommended literature, proposed topics
+  - wiki contains the overall documentation.
+
+If you are student in the course, feel free to track issues via that project.
