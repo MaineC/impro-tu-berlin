@@ -1,0 +1,13 @@
+Was ist Deine persönliche Motivation für die Teilnahme an diesem Projekt und was wirst Du dafür tun, dieses Ziel zu erreichen?
+
+Was war der bisher interessanteste Software-Bug, den Du je behoben hast? Was hat ihn ausgelöst, wie hast Du ihn gefunden und wie hast Du ihn behoben?
+
+Welche Erfahrungen hast Du bisher mit Freier Software gesammelt?
+
+Du möchtest den besten Spamfilter der Welt bauen. Dazu hast Du bereits ein sehr umfangreiches Set an gelabelten Trainingsdaten gesammelt und in Featurevektoren zerlegt. Leider hast Du drei Klassifikations-Algorithmen zur Auswahl, die jeder mit unterschiedlichen Parametern getunt werden können und bist Dir im Unklaren darüber, welcher der drei mit welchen Parametern der beste ist. Welches Setup verwendest Du, um den besten Spamfilter zu bauen? Wie findest Du heraus, wie performant bezueglich der Klassifikationsqualitaet Dein ausgewaehlter Filter tatsaechlich ist? Ist diese Abschaetzung ein optimistischer, pessimistischer oder erwartungstreuer Schaetzer?
+
+Bitte schreibe einen Schnipsel Sourcecode in einer Programmiersprache Deiner Wahl. Das resultierende Prgramm soll selbst herausfinden, ob es auf einer little- oder einer big-endian Maschine läuft.
+
+Bitte beschreibe, wie Du Map-Reduce mit einem Scatter-Gather Ansatz implementieren würdest. Welche grundlegenden Unterschiede gibt es zwischen beiden Varianten?
+
+Zusatzfrage: Dieser Fragebogen ist auf github im Projekt "Playground" vom Nutzer "MaineC" als Textdatei verfuegbar. Bitte schicke Deine Antworten, statt sie in der Webapplikation einzutippen, als Patch an isabel@apache.org.
