@@ -1,0 +1,21 @@
+Please explain the ins and outs of agile development: Focus should be on test driven development, extreme programming as well as Scrum as a mangement strategy.
+
+Literatur: 
+	Extreme programming explained (Kent Beck)
+	http://www.infoq.com/minibooks/scrum-xp-from-the-trenches
+
+
+
+Build management systems: Please compare maven, ant and ivy.
+
+
+Version control: Compare the differences of git and svn.
+
+
+Issuetracking: Please explain how issue tracker, mailing lists and wiki can be used to document features and changes. Please include an introduction to diff and patch.
+ 
+Literatur:
+	Talk by Bertrand Apache Con EU 2009
+
+
+
