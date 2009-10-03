@@ -1,0 +1,15 @@
+Installierte Software:
+    * Sun JDK1.6
+
+Software zum Entwickeln:
+    * git
+    * emma
+    * maven
+    * patch
+    * Eclipse Galileo, alternativ IntelliJ
+    * junit
+
+Software zum Testen:
+    * Hadoop 0.20.x (hdfs, mapreduce)
+    * Evtl. HBase
+    * Evtl. UIMA
