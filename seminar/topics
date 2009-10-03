@@ -2,24 +2,18 @@
 
 "NoSQL Datenbanken am Beispiel von HBase"
 
-"Ranking von Webseiten - basierend auf textueller Relevanz&Linkgraph"
+"Erkennen von Duplikaten und nahen Duplikaten in Textkorpora"
 
-"Lernen von Rankings."
+"Topic tracking - Verfolgen von aufkommenden Themen"
 
-"Topic identification - Erkennen neuer Themen."
+"Clustering von Dokumenten - Spectral Clustering"
 
-"Topic tracking - Verfolgen von aufkommenden Themen."
+"Erkennen von Duplikaten und nahen Duplikaten in Textkorpora"
 
 "Opinion mining"
 
-"Recommender systems basierend auf collaborative filtering"
+"Ranking von Webseiten - basierend auf textueller Relevanz&Linkgraph"
 
-"Erkennung von Duplikaten und nahen Duplikaten in Textkorpora"
-
-"Adversarial learning im Web-Spam Kontext"
-
-"Clustering von Suchergebnissen"
-
-"Plagiatserkennung"
+"Lernen von Rankings."
 
 "Klassifikationsalgorithmen zur Spam Erkennung: Naive Bayes, SVM, Logistic Regression"
