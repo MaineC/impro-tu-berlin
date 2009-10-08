@@ -1,0 +1,23 @@
+There are 100 points in total to reach. Depending on the percentage of points actually
+received, the number of credits is computed and ceiled.
+
+Example: Student received 50 points, this corresponds to 50%. In case of 2 credits
+available, the student will receive 1 credit. In case of fractions, the function
+java.util.Math.ceil() is applied to the resulting credit number.
+
+Ways to earn points (max total number > 100, intentional):
+
+Clarity of report - student has written a report that clearly motivates the problem setting,
+explains the ins and outs of the algorithms presented and includes pros and cons for each
+algorithm. (up to 30 points)
+
+Structure of slides - slides are readable, well structured, start with motivation and
+finish with take-home-messages (up to 30 points)
+
+Presentation style - student is capable of explaining his topic, is well-prepared for
+questions. Presentation itself is motivating and keeps listeners interested and well
+awake (up to 30 points)
+
+Literature complete - the student did not only take the literature provided into
+consideration but read up on related papers and books. Student has broad understanding
+of the topic (up to 30 points)

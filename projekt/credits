@@ -1,0 +1,41 @@
+There is a fixed pool of credits available for the course. Students may get up to 100 points
+during the project. Ways for receiving points are detailed below. Depending on the percentage
+of actual received points vs. available points, credits are given.
+
+Example: Student receives 50 points out of 100. This corresponds to 50%, given that the pools
+credits is 4 credits large, the student will receive 2 credits. In case of doubt, the
+java.util.ceil(...) function is used to come up with a valid credit number.
+
+
+Ways to earn points (yes, the max total number is larger than 100, this is intentional):
+
+Student consistantly interacts with community: up to 20 points (depending on single question,
+multiple questions, student answers to mails from other community members)
+
+Student is capable of discussing code: up to 20 points (depending on capability of explaining
+his code to fellow students, being able to discuss patches on JIRA, being able to review
+other community members' patches)
+
+Student is able to interact with JIRA: up to 20 points (depending on capability to file
+bug reports, come up with patches, review other members' patches)
+
+Student is capable of discussing design: up to 20 points (depending on capability of explaining
+design to other students, to other community members, to understand and review designs of
+other community members)
+
+Student excells at coding: up to 20 points (depending on code quality: code is
+unit tested, integration tested, well documented in terms of javaDoc, well documented in
+terms of user documentation, has examples attached to it, code itself is understandable
+and passes common checks like Mahout-Codestyle checks, findbugs, code copy detection etc.)
+
+Student has excellent project leadership skills: up to 20 points (depending on goals reached
+by the end of each sprint, communication with product owner in case of problems, solving
+of impediments of team members, participation in project steering discussions on list)
+
+Student has excellent communication skills and theoretical background: up to 30 points
+(depending on capability of explaining algorithms to other students and community
+members, ability to view a problem setting in a global context instead of focussing
+on one particular algorithm, ability to explain pros and cons of various approaches)
+
+
+
