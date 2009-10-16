@@ -6,3 +6,5 @@ The purpose of this repository is to organise a Mahout seminar at TU Berlin. It 
   - wiki contains the overall documentation.
 
 If you are student in the course, feel free to track issues via that project. If you are student of this project course, in order to gain commit access to the repo. either send your public ssh key to the course organiser or create your own github account and send your user id for addition to the course organiser.
+
+If you want to know which modules have been developed by the students already, please visit http://github.com/MaineC/tuwoc - hopefully patches will appear in the Mahout jira soon enough.
