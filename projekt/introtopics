@@ -5,15 +5,18 @@ Please explain the ins and outs of agile development: Focus should be on test dr
         XP Explored
         Scrum Development Process (Ken Schwaber)
         http://www.poppendieck.com/publications.htm
+Student: MH
 
 Build management systems: Please compare maven, ant and ivy.
         http://maven.apache.org
         http://ant.apache.org
         http://ant.apache.org/ivy
+Student: MaH
 
 Version control: Compare the differences of git and svn.
         http://subversion.tigris.org/
         http://git-scm.com/
+Student: NR
 
 Issuetracking: Please explain how issue tracker, mailing lists and wiki can be used to document features and changes. Please include an introduction to diff and patch.
 	http://www.youtube.com/watch?v=XdNyzNCRLd8
@@ -21,6 +24,7 @@ Issuetracking: Please explain how issue tracker, mailing lists and wiki can be u
         http://www.apache.org/foundation/how-it-works.html
         http://osofbiz.blogspot.com/2009/06/open-source-community-collaboration.html
 Please include an analysis of indicators to judge whether a free software project is healthy and alive or not.
+Student: ZW
 
 Web Crawling frameworks: Please shortly describe problems, tasks and available projects
       HTTP The Definitive Guide by O'Reilly
@@ -28,6 +32,7 @@ Web Crawling frameworks: Please shortly describe problems, tasks and available p
       http://lucene.apache.org/nutch
       http://incubator.apache.org/droids/
       http://crawler.archive.org/
+Student: XQ
 
 Apache Hadoop: Please give a brief tour-de-hadoop including its motivation, limitations and one use case
        http://labs.google.com/papers/mapreduce.html
@@ -35,6 +40,7 @@ Apache Hadoop: Please give a brief tour-de-hadoop including its motivation, limi
        http://hadoop.apache.org
        Hadoop - The Definitive Guide by Tom White
        http://www.citeulike.org/user/MaineC/tag/hadoop
+Student: ML
 
 Indexing documents
         http://lucene.apache.org/java
