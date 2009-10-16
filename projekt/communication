@@ -1,5 +1,5 @@
 Project organisation through:
-git clone git://github.com/MaineC/Playground.git
+git clone git@github.com:MaineC/Playground.git
 (To submit your own project documentation, get a github account and get is activated for the project by isabel@apache.org)
 
 Project mailinglist:
@@ -10,7 +10,7 @@ Project impediments - tasks to be completed until next meeting:
 http://github.com/MaineC/Playground/issues
 
 Project on github for tracking what is developed within this course. (Results will be published under ASLv2.0)
-git clone git://github.com/MaineC/tuwoc
+git clone git@github.com:MaineC/tuwoc.git
 
 
 Username and url of project hadoop cluster:
