@@ -1,3 +1,9 @@
+Project registration through:
+project - https://bird.cs.tu-berlin.de:4430/anmeldung/anmeldung/add/id/51
+seminar - https://bird.cs.tu-berlin.de:4430/anmeldung/anmeldung/add/id/52
+project - https://lsf.zuv.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=2&veranstaltung.veranstid=98064
+seminar - https://lsf.zuv.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=2&veranstaltung.veranstid=98088
+
 Project organisation through:
 git clone git@github.com:MaineC/Playground.git
 (To submit your own project documentation, get a github account and get is activated for the project by isabel@apache.org)
