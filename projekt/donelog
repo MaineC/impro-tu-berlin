@@ -1,0 +1,38 @@
+This is the backlog of the TUwoC project. Items are prioritized by the product
+owner and estimated by the team.
+
+Pri  Estimation  Description
+---------------------------Sprint#3: 30. - 07. November -----------------------
+
+
+
+---------------------------Sprint#2: 23. - 30. October ------------------------
+
+
+
+
+---------------------------Sprint#1: 16. - 23. Oktober ------------------------
+...........................Open Source development.............................
+001  02          Get acquainted with open source software development tools.
+                 Goal: Everyone is able to checkout any Apache project, build
+                 it from source, apply patches to it. Students are subscribed
+                 to the mailinglists of those projects they are going to use
+                 throughout the course. Students are able to generate patches
+                 from code modifications, to be shown in documentation patches
+                 that are submitted to your favourite project.
+Done.
+
+...........................Hadoop Setup........................................
+003  02          Hadoop: Set up your first own cluster. Write a test job that
+                 communicates with the database system to be used for document
+                 storage after processing.
+Done - except for document retrieval from database.
+
+..........................Web Crawling........................................
+005  02          Web Crawling: Set up a pipeline to crawl web pages that
+                 stores the pages in a document database in HDFS.
+Done - except for storage in HDFS.
+
+..........................Solr setup..........................................
+009  02          Setup a solr search server to index the annotated postings.
+Done.
