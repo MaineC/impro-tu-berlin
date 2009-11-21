@@ -2,16 +2,102 @@ This is the backlog of the TUwoC project. Items are prioritized by the product
 owner and estimated by the team.
 
 Pri  Estimation  Description
----------------------------Sprint#3: 30. - 07. November -----------------------
+---------------------------Sprint#5: 20. - 27. November -----------------------
+...........................Crawler...........................
+001		Crawl 10000 blogs
+     03		Start crawl
+     00		Start crawl once
+     00		Know how recrawling is triggered
 
+...........................UIMA...........................
+002  		UIMA
+      02	Stemming
+      04	HBase Reader
+      04	HBase Writer
+      04	HTML Filter
+      05	Pipeline
 
+...........................Features...........................
+003		Feature Vectors
+      08	Move to reading from HBase
 
----------------------------Sprint#2: 23. - 30. October ------------------------
+...........................PManagement...........................
+004		Mavenization
+      03	Integrate with provided project stub and upload maven site
 
+...........................Mahout...........................
+005		kMeans
+Not checked out
 
+...........................Paper...........................
+006		Algorithm
+		Read up on online clustering algorithms
 
+...........................Tests...........................
+007		Provide Tests
+      16	For all components available so far (target coverage: 80%)
 
----------------------------Sprint#1: 16. - 23. Oktober ------------------------
+---------------------------Sprint#4: 13. - 20. November -----------------------
+...........................UIMA...........................
+001		UIMA for parsing
+        	HBase Reader
+      03	HTML Filter
+      08	TLD Filter (done in Crawler)
+      05	Setup pipeline
+      02	HBase Writer
+Not done at all (missing machine was one reason).
+
+...........................Features...........................
+002		Feature vector generation
+      05	TFIDF Code as M/R job
+Done, tests are still missing.
+
+...........................Mahout...........................
+003		Get kMeans up and running
+      05	Start w/ example
+      08	Cluster assigments
+      03	Arbitrary doc as title
+Done k-Means integration with feature generation. Rest not
+checked out.
+
+...........................Paper...........................
+004		Decide on algorithm
+      13	Discuss on list
+      13	Design
+Not checked out.
+
+...........................Solr...........................
+005		Solr integration
+Not checked out.
+
+---------------------------Sprint#3: 01. - 13. November -----------------------
+...........................Crawler...........................
+001 		Integrate Crawler and Hadoop
+     13		Store documents in Hbase
+     05		Retrieve docs from Hbase
+     01		Retrieve blogs only
+Done but still buggy.
+
+...........................Mahout...........................
+002		Integrate Mahout and HBase
+     08		Gen vectors from docs to hdfs
+     03		Use k-Means to cluster docs
+     13		Use one post in cluster as title, cluster labels on docs
+Started but not completed.
+
+...........................Paper...........................
+003		Kleinberg paper (including references)
+     07		read and understand
+     07		discuss internally
+     21		discuss on mahout dev list
+     13		start implementation
+Done except for implementation.
+
+...........................Lucene...........................
+004		Clusters into lucene through fields
+Not checked out.
+
+---------------------------Sprint#1: 23. - 30. October ------------------------
 ...........................Open Source development.............................
 001  02          Get acquainted with open source software development tools.
                  Goal: Everyone is able to checkout any Apache project, build
