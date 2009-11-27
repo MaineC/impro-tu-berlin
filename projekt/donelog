@@ -2,13 +2,46 @@ This is the backlog of the TUwoC project. Items are prioritized by the product
 owner and estimated by the team.
 
 Pri  Estimation  Description
----------------------------Sprint#5: 20. - 27. November -----------------------
+---------------------------Sprint#4: 27. - 04. Dezember -----------------------
+..........................k-Means...........................
+001            kMeans
+    Open       Chose arbitrary post as title.
+    Open       Post Cluster Id assignment.
+
+.........................Online algorithm...................
+002            Read up on Topic tracking
+    08         Read papers + book and give an overview
+
+........................Features and UIMA...................
+003            Publish results reached so far
+    05         Submit work done so far to mahout-user and get feedback
+
+........................Solr................................
+004            Solr indexing integration
+               Typesystem
+               Setup
+               Document creation
+               Cluster id assigment
+               Mini gui
+Not yet checked out.
+
+.......................Testing..............................
+005            Do insist on writing tests for everything.
+    08         Deliver tests for currently stable components.
+
+.......................UIMA.................................
+006            Add POS Tagging
+    08         Add Tagger to Pipeline
+    02         Read from HBase
+    02         Write to HBase
+
+---------------------------Sprint#3: 20. - 27. November -----------------------
 ...........................Crawler...........................
 001		Crawl 10000 blogs
      03		Start crawl
      00		Start crawl once
      00		Know how recrawling is triggered
-
+Done completly.
 ...........................UIMA...........................
 002  		UIMA
       02	Stemming
@@ -16,28 +49,28 @@ Pri  Estimation  Description
       04	HBase Writer
       04	HTML Filter
       05	Pipeline
-
+Done except for HBase integration.
 ...........................Features...........................
 003		Feature Vectors
       08	Move to reading from HBase
-
+Done completely.
 ...........................PManagement...........................
 004		Mavenization
       03	Integrate with provided project stub and upload maven site
-
+Done completely.
 ...........................Mahout...........................
 005		kMeans
 Not checked out
-
+Done up to integration.
 ...........................Paper...........................
 006		Algorithm
 		Read up on online clustering algorithms
-
+Done first round.
 ...........................Tests...........................
 007		Provide Tests
       16	For all components available so far (target coverage: 80%)
-
----------------------------Sprint#4: 13. - 20. November -----------------------
+Not done at all.
+---------------------------Sprint#2: 13. - 20. November -----------------------
 ...........................UIMA...........................
 001		UIMA for parsing
         	HBase Reader
@@ -70,7 +103,7 @@ Not checked out.
 005		Solr integration
 Not checked out.
 
----------------------------Sprint#3: 01. - 13. November -----------------------
+---------------------------Sprint#1: 01. - 13. November -----------------------
 ...........................Crawler...........................
 001 		Integrate Crawler and Hadoop
      13		Store documents in Hbase
@@ -97,7 +130,7 @@ Done except for implementation.
 004		Clusters into lucene through fields
 Not checked out.
 
----------------------------Sprint#1: 23. - 30. October ------------------------
+---------------------------Sprint#0: 23. - 30. October ------------------------
 ...........................Open Source development.............................
 001  02          Get acquainted with open source software development tools.
                  Goal: Everyone is able to checkout any Apache project, build
