@@ -2,20 +2,49 @@ This is the backlog of the TUwoC project. Items are prioritized by the product
 owner and estimated by the team.
 
 Pri  Estimation  Description
+---------------------------Sprint#5: 04. - 11. Dezember -----------------------
+..........................Behemoth..........................
+001		Behemoth
+    05		work w/ community to include code
+
+002		Online algorithms
+    00		decide and discuss
+    08		Write summary
+
+003		kMeans
+    02		post as title
+
+004		Feature vectors
+    13		Random indexing
+    02		Lingpipe
+    08		Noun Group Chunker
+
+005		Tests
+    05		Increase coverage
+
+006		Integrate Solr
+    08		XML configuration
+    05		HBase content to xml
+    03		HBase cluster assignments to xml
+
+007	01	Maven Fix
+
+008	02	Cleanser project fix
+
 ---------------------------Sprint#4: 27. - 04. Dezember -----------------------
 ..........................k-Means...........................
 001            kMeans
     Open       Chose arbitrary post as title.
     Open       Post Cluster Id assignment.
-
+done except for title selection
 .........................Online algorithm...................
 002            Read up on Topic tracking
     08         Read papers + book and give an overview
-
+done
 ........................Features and UIMA...................
 003            Publish results reached so far
     05         Submit work done so far to mahout-user and get feedback
-
+done
 ........................Solr................................
 004            Solr indexing integration
                Typesystem
@@ -28,13 +57,13 @@ Not yet checked out.
 .......................Testing..............................
 005            Do insist on writing tests for everything.
     08         Deliver tests for currently stable components.
-
+done for feature generation
 .......................UIMA.................................
 006            Add POS Tagging
     08         Add Tagger to Pipeline
     02         Read from HBase
     02         Write to HBase
-
+done
 ---------------------------Sprint#3: 20. - 27. November -----------------------
 ...........................Crawler...........................
 001		Crawl 10000 blogs
