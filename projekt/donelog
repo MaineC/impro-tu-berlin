@@ -2,35 +2,50 @@ This is the backlog of the TUwoC project. Items are prioritized by the product
 owner and estimated by the team.
 
 Pri  Estimation  Description
+---------------------------Sprint#6: 11. - 18. Dezember ----------------------
+001             Behemoth - not checked out
+
+002             Get Pipeline integrated and running
+    30
+
+003             Solr loose ends
+    02          create schema.xml
+    01          setup solr
+
+004             Tests - should be done during integration.
+
+005 08          Summary
+
+
 ---------------------------Sprint#5: 04. - 11. Dezember -----------------------
 ..........................Behemoth..........................
 001		Behemoth
     05		work w/ community to include code
-
+Not done.
 002		Online algorithms
     00		decide and discuss
     08		Write summary
-
+Not done.
 003		kMeans
     02		post as title
-
+Not done.
 004		Feature vectors
     13		Random indexing
     02		Lingpipe
     08		Noun Group Chunker
-
+Done.
 005		Tests
     05		Increase coverage
-
+Not done.
 006		Integrate Solr
     08		XML configuration
     05		HBase content to xml
     03		HBase cluster assignments to xml
-
+Done except for schema.xml
 007	01	Maven Fix
-
+Done.
 008	02	Cleanser project fix
-
+Done. (Total: 34)
 ---------------------------Sprint#4: 27. - 04. Dezember -----------------------
 ..........................k-Means...........................
 001            kMeans
