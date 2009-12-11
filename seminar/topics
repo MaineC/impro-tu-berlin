@@ -1,6 +1,30 @@
 "Was ist Map Reduce - Motivation, Design und Implementierung in Hadoop."
+Dean, J. and Ghemawat, S. 2004. MapReduce: simplified data processing on large clusters. In Proceedings of the 6th Conference on Symposium on Opearting Systems Design & Implementation - Volume 6 (San Francisco, CA, December 06 - 08, 2004). Operating Systems Design and Implementation. USENIX Association, Berkeley, CA, 10-10.
+
+S. Ghemawat, H. Gobioff, and S.-T. Leung, "The google file system," in SOSP '03: Proceedings of the nineteenth ACM symposium on Operating systems principles.    NewYork, NY, USA: ACM Press, 2003, pp. 29-43. [Online]. Available: http://dx.doi.org/10.1145/945445.945450
+
+M. K. Mckusick and S. Quinlan, "Gfs: Evolution on fast-forward - acm queue," ACM Queue, vol. 7, 2009. [Online]. Available: http://queue.acm.org/detail.cfm?id=1594206
+
+R. Pike, S. Dorward, R. Griesemer, and S. Quinlan, "Interpreting the data: Parallel analysis with sawzall," Sci. Program., vol. 13, no. 4, pp. 277-298, October 2005. [Online]. Available: http://portal.acm.org/citation.cfm?id=1239658
+
+C. Olston, B. Reed, U. Srivastava, R. Kumar, and A. Tomkins, "Pig latin: a not-so-foreign language for data processing," in SIGMOD '08: Proceedings of the 2008 ACM SIGMOD international conference on Management of data.    New York, NY, USA: ACM, 2008, pp. 1099-1110. [Online]. Available: http://dx.doi.org/10.1145/1376616.1376726
+
+R. Mccreadie, C. Mcdonald, and I. Ounis, "Comparing distributed indexing: To mapreduce or not?" in 7th Workshop on Large-Scale Distributed Systems for Information Retrieval, 2009.
+
+M. Isard, M. Budiu, Y. Yu, A. Birrell, and D. Fetterly, "Dryad: distributed data-parallel programs from sequential building blocks," in EuroSys '07: Proceedings of the 2nd ACM SIGOPS/EuroSys European Conference on Computer Systems 2007.    New York, NY, USA: ACM, 2007, pp. 59-72. [Online]. Available: http://dx.doi.org/10.1145/1272996.1273005
+
+
 
 "NoSQL Datenbanken am Beispiel von HBase"
+
+G. Decandia, D. Hastorun, M. Jampani, G. Kakulapati, A. Lakshman, A. Pilchin, S. Sivasubramanian, P. Vosshall, and W. Vogels, "Dynamo: amazon's highly available key-value store," in SOSP '07: Proceedings of twenty-first ACM SIGOPS symposium on Operating systems principles.    New York, NY, USA: ACM Press, 2007, pp. 205-220. [Online]. Available: http://dx.doi.org/10.1145/1294261.1294281
+
+Chang, F., Dean, J., Ghemawat, S., Hsieh, W., Wallach, D., Burrows, M., Chandra, T., Fikes, A., and Gruber, R. 2008. Bigtable: A Distributed Storage System for Structured Data. ACM Trans. Comput. Syst. 26, 2 (Jun. 2008), 1-26. DOI= http://doi.acm.org/10.1145/1365815.1365816
+
+Vogels, W. 2008. Eventually Consistent. Queue 6, 6 (Oct. 2008), 14-19. DOI= http://doi.acm.org/10.1145/1466443.1466448
+
+http://www.julianbrowne.com/article/viewer/brewers-cap-theorem <- Referenzen beachten
+
 
 "Erkennen von Duplikaten und nahen Duplikaten in Textkorpora"
 
@@ -14,6 +38,17 @@
 
 "Ranking von Webseiten - basierend auf textueller Relevanz&Linkgraph"
 
-"Lernen von Rankings."
+"Lernen von Rankings von Suchmaschinentreffern."
+
+Query chains: learning to rank from implicit feedback In KDD '05: Proceeding of the eleventh ACM SIGKDD international conference on Knowledge discovery in data mining (2005), pp. 239-248. by Filip Radlinski, Thorsten Joachims
+
+Accurately interpreting clickthrough data as implicit feedback  In SIGIR '05: Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval (2005), pp. 154-161. by Thorsten Joachims, Laura Granka, Bing Pan, Helene Hembrooke, Geri Gay
+
+Learning Diverse Rankings with Multi-Armed Bandits. Filip Radlinski, Robert Kleinberg, and Thorsten Joachims. ICML 2008
+
+Magnitude-Preserving Ranking Algorithms in ICML 2007 by Corinna Cortes, Mehryar Mohri, and Ashish Rastogi.
+
+CoFi Rank - Maximum Margin Matrix Factorization for Collaborative Ranking in Proceedings NIPS 2007 by Markus Weimer, Alexandros Karatzoglou, Quoc Le, and Alex Smola.
+
 
 "Klassifikationsalgorithmen zur Spam Erkennung: Naive Bayes, SVM, Logistic Regression"
