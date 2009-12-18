@@ -2,20 +2,57 @@ This is the backlog of the TUwoC project. Items are prioritized by the product
 owner and estimated by the team.
 
 Pri  Estimation  Description
+---------------------------Sprint#7: 18. - 08. January -----------------------
+001             Behemoth/Mahout
+   03           Setup and run Behemoth
+                Implement HBase layer
+                Feed back current feature extraction annotators
+
+002             Solr
+   05           Simple WebUI (Velocity module, search box, 10 snippets, highlighting)
+   02           Think of sensible pre-defined queries to demo the system
+   05           Implement at least two such queries (implement as in integrate in UI)
+   05           Convert HBase to Solr generation to M/R job <- not checked out!
+
+003             Tests
+   08           Add tests to the implementation
+
+004             Processing Pipeline
+   05           de-boilerplating (boilerpipe?)
+
+005             Missing links (ordered by priority)
+  05            Make heritrix less greedy
+  02            Connect heritrix output and extraction input - evaluate how
+  ??            Do the integration
+  06.5          Feature extraction join - currently the pipe explodes w/ too much data
+  02            Uima Pipe - normalising (remove special chars, lowercase)
+  05            Uima Pipe - performance optimization
+end of checkout for this sprint
+
+  05            Uima Pipe quality optimization
+  03            Cluster title extraction
+  08            Cluster keyword extraction/ tagging
+  01            Store blog posting title in hbase as extracted by jericho
+  ??            Training set generation
+
 ---------------------------Sprint#6: 11. - 18. Dezember ----------------------
 001             Behemoth - not checked out
+done
 
 002             Get Pipeline integrated and running
     30
+done
 
 003             Solr loose ends
     02          create schema.xml
     01          setup solr
+done
 
 004             Tests - should be done during integration.
+not done
 
 005 08          Summary
-
+not done (Total: 32)
 
 ---------------------------Sprint#5: 04. - 11. Dezember -----------------------
 ..........................Behemoth..........................
