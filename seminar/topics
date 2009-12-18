@@ -16,6 +16,7 @@ M. Isard, M. Budiu, Y. Yu, A. Birrell, and D. Fetterly, "Dryad: distributed data
 
 
 "NoSQL Datenbanken am Beispiel von HBase"
+Cooper, B.F.; Ramakrishnan, R.; Srivastava, U.; Silberstein, A.; Bohannon, P.; Jacobsen, H.; Puz, N.; Weaver, D.; Yerneni, R., "PNUTS: Yahoo!'s Hosted Data Serving Platform". VLDB 2008.
 
 G. Decandia, D. Hastorun, M. Jampani, G. Kakulapati, A. Lakshman, A. Pilchin, S. Sivasubramanian, P. Vosshall, and W. Vogels, "Dynamo: amazon's highly available key-value store," in SOSP '07: Proceedings of twenty-first ACM SIGOPS symposium on Operating systems principles.    New York, NY, USA: ACM Press, 2007, pp. 205-220. [Online]. Available: http://dx.doi.org/10.1145/1294261.1294281
 
