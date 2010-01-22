@@ -2,15 +2,13 @@ This is the backlog of the TUwoC project. Items are prioritized by the product
 owner and estimated by the team.
 
 Pri  Estimation  Description
----------------------------Sprint#9: 15. - 22. January -----------------------
+---------------------------Sprint10: 22. - 29. January -----------------------
 001             Run the pipe
   16              Run with real world training set generated from the net
-  12              Pipeline Tests
-   1              Extract and store posting titles through Jericho
 
-002             Solr integration
-  02              "Give me all other documents in the same cluster as this search result"
-  03              "Search not only in documents but within cluster titles as well"
+003             Cluster refinement
+  03              Cluster titles
+  08              keywords/tags
 
 003             Cluster Refinement
   03              Cluster titles
@@ -26,7 +24,36 @@ Pri  Estimation  Description
 006             Behemoth
   ??              HBase Layer
   ??              Feedback on analysis
+---------------------------Sprint#9: 15. - 22. January -----------------------
+001             Run the pipe
+  16              Run with real world training set generated from the net
+  12              Pipeline Tests
+   1              Extract and store posting titles through Jericho
+done except for pipeline running
 
+002             Solr integration
+  02              "Give me all other documents in the same cluster as this search result"
+  03              "Search not only in documents but within cluster titles as well"
+done
+
+003             Cluster Refinement
+  03              Cluster titles
+  08              Cluster keywords/ tags (not checked out)
+not done
+
+004             Documentation
+  05              Quickstart on how to get pipeline running (add one Global-Driver)
+  03              HowTo build for developers (not checked out)
+  03              Mahout list presentation (not checked out)
+not done
+
+005             UIMA quality optimization (06, not checked out)
+not done
+
+006             Behemoth
+  ??              HBase Layer
+  ??              Feedback on analysis
+not done
 ---------------------------Sprint#8: 08. - 15. January -----------------------
 001             Testing
   2.5             Uima Stop-word filter
