@@ -2,31 +2,117 @@ This is the backlog of the TUwoC project. Items are prioritized by the product
 owner and estimated by the team.
 
 Pri  Estimation  Description
+---------------------------Sprint10: 22. - 29. January -----------------------
+001             Run the pipe
+  16              Run with real world training set generated from the net
+
+003             Cluster refinement
+  03              Cluster titles
+  08              keywords/tags
+
+003             Cluster Refinement
+  03              Cluster titles
+  08              Cluster keywords/ tags (not checked out)
+
+004             Documentation
+  05              Quickstart on how to get pipeline running (add one Global-Driver)
+  03              HowTo build for developers (not checked out)
+  03              Mahout list presentation (not checked out)
+                    includes: repo link, proposal for example, lessons learned
+
+004b)           PR
+                Kolloquium
+                    ASF
+                    OSS
+                    Projekt
+                    Mahout
+                GetTogether June - slides, abstract, title
+                Feedback Community development
+
+005             UIMA quality optimization (06, not checked out)
+
+006             Behemoth
+  ??              HBase Layer
+  ??              Feedback on analysis
+---------------------------Sprint#9: 15. - 22. January -----------------------
+001             Run the pipe
+  16              Run with real world training set generated from the net
+  12              Pipeline Tests
+   1              Extract and store posting titles through Jericho
+done except for pipeline running
+
+002             Solr integration
+  02              "Give me all other documents in the same cluster as this search result"
+  03              "Search not only in documents but within cluster titles as well"
+done
+
+003             Cluster Refinement
+  03              Cluster titles
+  08              Cluster keywords/ tags (not checked out)
+not done
+
+004             Documentation
+  05              Quickstart on how to get pipeline running (add one Global-Driver)
+  03              HowTo build for developers (not checked out)
+  03              Mahout list presentation (not checked out)
+not done
+
+005             UIMA quality optimization (06, not checked out)
+not done
+
+006             Behemoth
+  ??              HBase Layer
+  ??              Feedback on analysis
+not done
+---------------------------Sprint#8: 08. - 15. January -----------------------
+001             Testing
+  2.5             Uima Stop-word filter
+  2.5             LingPipe Chunker
+  6.5             Uima Mapper
+  16              Feature pipeline
+Done halfway - two more weeks estimated
+  6.5             Support Felix
+done
+  ??              Mahout List Update
+not done
+  5               Boilerpipe
+done half way - integration with jericho for title extraction missing.
+
+(Total: 27)
+
 ---------------------------Sprint#7: 18. - 08. January -----------------------
 001             Behemoth/Mahout
    03           Setup and run Behemoth
+done
                 Implement HBase layer
                 Feed back current feature extraction annotators
 
 002             Solr
    05           Simple WebUI (Velocity module, search box, 10 snippets, highlighting)
+done
    02           Think of sensible pre-defined queries to demo the system
    05           Implement at least two such queries (implement as in integrate in UI)
+not done
    05           Convert HBase to Solr generation to M/R job <- not checked out!
+done
 
 003             Tests
    08           Add tests to the implementation
-
+not done
 004             Processing Pipeline
    05           de-boilerplating (boilerpipe?)
-
+done
 005             Missing links (ordered by priority)
   05            Make heritrix less greedy
   02            Connect heritrix output and extraction input - evaluate how
   ??            Do the integration
+done
   06.5          Feature extraction join - currently the pipe explodes w/ too much data
+blocked by hadoop version
   02            Uima Pipe - normalising (remove special chars, lowercase)
+done
   05            Uima Pipe - performance optimization
+not done
 end of checkout for this sprint
 
   05            Uima Pipe quality optimization
@@ -34,6 +120,7 @@ end of checkout for this sprint
   08            Cluster keyword extraction/ tagging
   01            Store blog posting title in hbase as extracted by jericho
   ??            Training set generation
+(Total: 27)
 
 ---------------------------Sprint#6: 11. - 18. Dezember ----------------------
 001             Behemoth - not checked out
