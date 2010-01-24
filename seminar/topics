@@ -1,4 +1,4 @@
-"Was ist Map Reduce - Motivation, Design und Implementierung in Hadoop."
+* "Was ist Map Reduce - Motivation, Design und Implementierung in Hadoop."
 Dean, J. and Ghemawat, S. 2004. MapReduce: simplified data processing on large clusters. In Proceedings of the 6th Conference on Symposium on Opearting Systems Design & Implementation - Volume 6 (San Francisco, CA, December 06 - 08, 2004). Operating Systems Design and Implementation. USENIX Association, Berkeley, CA, 10-10.
 
 S. Ghemawat, H. Gobioff, and S.-T. Leung, "The google file system," in SOSP '03: Proceedings of the nineteenth ACM symposium on Operating systems principles.    NewYork, NY, USA: ACM Press, 2003, pp. 29-43. [Online]. Available: http://dx.doi.org/10.1145/945445.945450
@@ -15,7 +15,7 @@ M. Isard, M. Budiu, Y. Yu, A. Birrell, and D. Fetterly, "Dryad: distributed data
 
 
 
-"NoSQL Datenbanken am Beispiel von HBase"
+* "NoSQL Datenbanken am Beispiel von HBase"
 Cooper, B.F.; Ramakrishnan, R.; Srivastava, U.; Silberstein, A.; Bohannon, P.; Jacobsen, H.; Puz, N.; Weaver, D.; Yerneni, R., "PNUTS: Yahoo!'s Hosted Data Serving Platform". VLDB 2008.
 
 G. Decandia, D. Hastorun, M. Jampani, G. Kakulapati, A. Lakshman, A. Pilchin, S. Sivasubramanian, P. Vosshall, and W. Vogels, "Dynamo: amazon's highly available key-value store," in SOSP '07: Proceedings of twenty-first ACM SIGOPS symposium on Operating systems principles.    New York, NY, USA: ACM Press, 2007, pp. 205-220. [Online]. Available: http://dx.doi.org/10.1145/1294261.1294281
@@ -27,13 +27,8 @@ Vogels, W. 2008. Eventually Consistent. Queue 6, 6 (Oct. 2008), 14-19. DOI= http
 http://www.julianbrowne.com/article/viewer/brewers-cap-theorem <- Referenzen beachten
 
 
-"Erkennen von Duplikaten und nahen Duplikaten in Textkorpora"
 
-"Topic tracking - Verfolgen von aufkommenden Themen"
-
-"Clustering von Dokumenten - Spectral Clustering"
-
-"Erkennen von Duplikaten und nahen Duplikaten in Textkorpora"
+* "Erkennen von Duplikaten und nahen Duplikaten in Textkorpora"
 
 Detecting the origin of text segments efficiently  In WWW '09: Proceedings of the 18th international conference on World wide web (2009), pp. 61-70. by Ossama A. Hamid, Behshad Behzadi, Stefan Christoph, Monika Henzinger
 
@@ -41,11 +36,9 @@ Detecting Near-Duplicates for Web Crawling In WWW 2007. by Gurmeet Singh Manku, 
 
 Syntactic clustering of the web. In Computer Networks 1997. by A. Broder, S.C. Glassman, M. Manasse, and G.Zweig.
 
-"Opinion mining"
 
-"Ranking von Webseiten - basierend auf textueller Relevanz&Linkgraph"
 
-"Lernen von Rankings von Suchmaschinentreffern."
+* "Lernen von Rankings von Suchmaschinentreffern."
 
 Query chains: learning to rank from implicit feedback In KDD '05: Proceeding of the eleventh ACM SIGKDD international conference on Knowledge discovery in data mining (2005), pp. 239-248. by Filip Radlinski, Thorsten Joachims
 
@@ -57,5 +50,15 @@ Magnitude-Preserving Ranking Algorithms in ICML 2007 by Corinna Cortes, Mehryar 
 
 CoFi Rank - Maximum Margin Matrix Factorization for Collaborative Ranking in Proceedings NIPS 2007 by Markus Weimer, Alexandros Karatzoglou, Quoc Le, and Alex Smola.
 
+
+
+
+"Topic tracking - Verfolgen von aufkommenden Themen"
+
+"Clustering von Dokumenten - Spectral Clustering"
+
+"Opinion mining"
+
+"Ranking von Webseiten - basierend auf textueller Relevanz&Linkgraph"
 
 "Klassifikationsalgorithmen zur Spam Erkennung: Naive Bayes, SVM, Logistic Regression"
