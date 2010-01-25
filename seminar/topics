@@ -53,7 +53,27 @@ CoFi Rank - Maximum Margin Matrix Factorization for Collaborative Ranking in Pro
 
 
 
-"Topic tracking - Verfolgen von aufkommenden Themen"
+* "Topic tracking - Verfolgen von aufkommenden Themen"
+
+Zhang et al.: Novelty and Redundancy Detection in Adaptive Filtering
+
+Allan et al.: Topic Detection and Tracking Pilot Study Final Report
+
+Qi He , Bi Chen , Jian Pei , Baojun Qiu , Prasenjit Mitra , Lee Giles, Detecting topic evolution in scientific literature: how can citations help?, Proceeding of the 18th ACM conference on Information and knowledge management, November 02-06, 2009, Hong Kong, China
+
+Robert Gwadera , Fabio Crestani, Mining and ranking streams of news stories using cross-stream sequential patterns, Proceeding of the 18th ACM conference on Information and knowledge management, November 02-06, 2009, Hong Kong, China
+
+Levent Bolelli , Seyda Ertekin , Ding Zhou , C. Lee Giles, Finding topic trends in digital libraries, Proceedings of the 9th ACM/IEEE-CS joint conference on Digital libraries, June 15-19, 2009, Austin, TX, USA  [doi>10.1145/1555400.1555411]
+
+Levent Bolelli , ?eyda Ertekin , C. Lee Giles, Topic and Trend Detection in Text Collections Using Latent Dirichlet Allocation, Proceedings of the 31th European Conference on IR Research on Advances in Information Retrieval, April 06-09, 2009, Toulouse, France 
+
+Loulwah AlSumait , Daniel Barbará , Carlotta Domeniconi, On-line LDA: Adaptive Topic Models for Mining Text Streams with Applications to Topic Detection and Tracking, Proceedings of the 2008 Eighth IEEE International Conference on Data Mining, p.3-12, December 15-19, 2008
+
+Fabian Mörchen , Mathäus Dejori , Dmitriy Fradkin , Julien Etienne , Bernd Wachmann , Markus Bundschus, Anticipating annotations and emerging trends in biomedical literature, Proceeding of the 14th ACM SIGKDD international conference on Knowledge discovery and data mining, August 24-27, 2008, Las Vegas, Nevada, USA
+
+Ramesh M. Nallapati , Amr Ahmed , Eric P. Xing , William W. Cohen, Joint latent topic models for text and citations, Proceeding of the 14th ACM SIGKDD international conference on Knowledge discovery and data mining, August 24-27, 2008, Las Vegas, Nevada, USA
+
+J. Leskovec, et al. (2009). `Meme-tracking and the dynamics of the news cycle'. In KDD '09: Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining, pp. 497-506, New York, NY, USA. ACM.
 
 "Clustering von Dokumenten - Spectral Clustering"
 
