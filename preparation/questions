@@ -6,7 +6,7 @@ Welche Erfahrungen hast Du bisher mit Freier Software gesammelt?
 
 Du möchtest den besten Spamfilter der Welt bauen. Dazu hast Du bereits ein sehr umfangreiches Set an gelabelten Trainingsdaten gesammelt und in Featurevektoren zerlegt. Leider hast Du drei Klassifikations-Algorithmen zur Auswahl, die jeder mit unterschiedlichen Parametern getunt werden können und bist Dir im Unklaren darüber, welcher der drei mit welchen Parametern der beste ist. Welches Setup verwendest Du, um den besten Spamfilter zu bauen? Wie findest Du heraus, wie performant bezueglich der Klassifikationsqualitaet Dein ausgewaehlter Filter tatsaechlich ist? Ist diese Abschaetzung ein optimistischer, pessimistischer oder erwartungstreuer Schaetzer?
 
-Bitte schreibe einen Schnipsel Sourcecode in einer Programmiersprache Deiner Wahl. Das resultierende Prgramm soll selbst herausfinden, ob es auf einer little- oder einer big-endian Maschine läuft.
+Welche ist Deine Lieblingsprogrammiersprache - und was nervt Dich an dieser Programmiersprache am meisten? (Nein, diese Frage enthält keinen Tippfehler.)
 
 Bitte beschreibe, wie Du Map-Reduce mit einem Scatter-Gather Ansatz implementieren würdest. Welche grundlegenden Unterschiede gibt es zwischen beiden Varianten?
 
